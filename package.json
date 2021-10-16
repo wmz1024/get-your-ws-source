@@ -1,0 +1,21 @@
+{
+  "name": "get-your-ws-source",
+  "version": "1.0.0",
+  "description": "generate a new website",
+  "main": " ",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "b": "npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmz1024/get-your-ws-source.git"
+  },
+  "author": "wmz1024",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wmz1024/get-your-ws-source/issues"
+  },
+  "homepage": "https://github.com/wmz1024/get-your-ws-source#readme"
+}
